@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino\\PizzeriaSdomino.csproj": {}
+    "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino\\PizzeriaSdomino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino\\PizzeriaSdomino.csproj": {
+    "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino\\PizzeriaSdomino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino\\PizzeriaSdomino.csproj",
+        "projectUniqueName": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino\\PizzeriaSdomino.csproj",
         "projectName": "PizzeriaSdomino",
-        "projectPath": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino\\PizzeriaSdomino.csproj",
+        "projectPath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino\\PizzeriaSdomino.csproj",
         "packagesPath": "C:\\Users\\mob02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino\\obj\\",
+        "outputPath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

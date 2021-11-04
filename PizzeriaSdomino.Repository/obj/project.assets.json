@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino.Repository\\PizzeriaSdomino.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Repository\\PizzeriaSdomino.Repository.csproj",
       "projectName": "PizzeriaSdomino.Repository",
-      "projectPath": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino.Repository\\PizzeriaSdomino.Repository.csproj",
+      "projectPath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Repository\\PizzeriaSdomino.Repository.csproj",
       "packagesPath": "C:\\Users\\mob02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino.Repository\\obj\\",
+      "outputPath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

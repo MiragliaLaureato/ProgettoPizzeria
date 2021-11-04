@@ -1,11 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "CsvHelper/27.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CsvHelper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/CsvHelper.dll": {}
+        }
+      },
+      "PizzeriaSdomino.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PizzeriaSdomino.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzeriaSdomino.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CsvHelper/27.1.1": {
+      "sha512": "lo5yypClBORR2XiWPRxQApaA4C2R4GVCIPVRt9HfaLxLmVQtg/KZiOYsd4luLgyOxkUatF9R0QdFQYk7Y2l0cw==",
+      "type": "package",
+      "path": "csvhelper/27.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.27.1.1.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net45/CsvHelper.dll",
+        "lib/net45/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net5.0/CsvHelper.dll",
+        "lib/net5.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
+      ]
+    },
+    "PizzeriaSdomino.Repository/1.0.0": {
+      "type": "project",
+      "path": "../PizzeriaSdomino.Repository/PizzeriaSdomino.Repository.csproj",
+      "msbuildProject": "../PizzeriaSdomino.Repository/PizzeriaSdomino.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "CsvHelper >= 27.1.1",
+      "PizzeriaSdomino.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mob02\\.nuget\\packages\\": {},
@@ -14,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino.Reader\\PizzeriaSdomino.Reader.csproj",
+      "projectUniqueName": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Reader\\PizzeriaSdomino.Reader.csproj",
       "projectName": "PizzeriaSdomino.Reader",
-      "projectPath": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino.Reader\\PizzeriaSdomino.Reader.csproj",
+      "projectPath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Reader\\PizzeriaSdomino.Reader.csproj",
       "packagesPath": "C:\\Users\\mob02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mob02\\source\\repos\\PizzeriaSdomino\\PizzeriaSdomino.Reader\\obj\\",
+      "outputPath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Reader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -37,7 +88,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Repository\\PizzeriaSdomino.Repository.csproj": {
+              "projectPath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\PizzeriaSdomino.Repository\\PizzeriaSdomino.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -49,6 +104,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "CsvHelper": {
+            "target": "Package",
+            "version": "[27.1.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
