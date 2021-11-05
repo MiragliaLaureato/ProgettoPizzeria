@@ -16,6 +16,10 @@ namespace PizzeriaSdomino.Repository
             Impasto = impasto;
             Ingredienti = listaingredienti;
         }
+        public override string ToString()
+        {
+            return $"{BasePizza} {Impasto} {Ingredienti.Select(x=>x.Nome)}";
+        }
     }
 
 }

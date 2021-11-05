@@ -1,0 +1,15 @@
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.csproj.AssemblyReference.cache
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.AssemblyInfoInputs.cache
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.AssemblyInfo.cs
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.csproj.CoreCompileInputs.cache
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\bin\Debug\net5.0\PizzeriaSdomino.Reader.deps.json
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\bin\Debug\net5.0\PizzeriaSdomino.Reader.dll
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\bin\Debug\net5.0\ref\PizzeriaSdomino.Reader.dll
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\bin\Debug\net5.0\PizzeriaSdomino.Reader.pdb
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\bin\Debug\net5.0\PizzeriaSdomino.Repository.dll
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\bin\Debug\net5.0\PizzeriaSdomino.Repository.pdb
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.csproj.CopyComplete
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.dll
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\ref\PizzeriaSdomino.Reader.dll
+C:\Users\mob02\Desktop\ProgettoPizzeria\PizzeriaSdomino.Reader\obj\Debug\net5.0\PizzeriaSdomino.Reader.pdb

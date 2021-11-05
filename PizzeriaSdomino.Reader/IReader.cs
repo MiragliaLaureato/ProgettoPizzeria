@@ -5,7 +5,7 @@ namespace PizzeriaSdomino.Reader
 {
     public interface IReader<T>
     {
-        IEnumerable<T> GetCollection();
+        IEnumerable<T> GetCollection(string source);
     }
 
 }

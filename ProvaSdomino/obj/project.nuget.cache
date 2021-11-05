@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EzirFWjvWvXH98ONPiQsIcEEhPAMD310BdQDf28gKXi7Qf9D6pgBroS01AN9kY4MA7tIBQQHKZ1s2XtmdajUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mob02\\Desktop\\ProgettoPizzeria\\ProvaSdomino\\ProvaSdomino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mob02\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
